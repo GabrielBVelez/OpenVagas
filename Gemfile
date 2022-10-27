@@ -27,6 +27,9 @@ gem 'devise' # autenticação
 gem 'haml' # html 
 gem "haml-rails", "~> 2.0"
 
+gem 'bootstrap', '~> 5.2.2'
+gem 'jquery-rails'
+
 # gem 'kaminari' # paginação
 # gem 'kaminari-bootstrap' # css
 # gem 'ransack' # pesquisas e buscas
